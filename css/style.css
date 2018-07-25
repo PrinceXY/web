@@ -1,0 +1,63 @@
+.box{
+    width: 650px;
+    height: 700px;
+    border: black 1px solid;
+    margin: 0px auto;
+}
+.top{
+    height: 30px;
+    line-height: 30px;
+    width: 650px;
+    background: blue;
+    text-align: center;
+    color: white;
+}
+.arguement{
+    width: 600px;
+    height: 200px;
+    margin: 0px auto;
+    margin-top: 5px;
+    overflow: scroll;
+    background:honeydew;
+}
+.button{
+    width: 400px;
+    height: 30px;
+    margin: 0px auto;
+}
+input{
+    margin-left: 80px;
+}
+.title{
+    background: whitesmoke;
+    border: 1px solid lightgray;
+}
+.table{
+    width: 650px;
+    height: 35px;
+
+}
+button{
+    margin-left: 180px;
+    margin-top: 20px;
+    background: blue;
+    color: white;
+}
+.content1{
+    width: 150px;
+    height: 45px;
+    border: 1px solid lightgray;
+    float: left;
+    line-height: 45px;
+    text-align: right;
+
+}
+.content2{
+    width: 490px;
+    height: 45px;
+    border: 1px solid lightgrey;
+    float: left;
+    margin-left: 5px;
+    color: red;
+}
+
